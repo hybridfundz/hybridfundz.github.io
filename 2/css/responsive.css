@@ -1,0 +1,377 @@
+
+@media (min-width: 1920px) {
+
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+.main-menu ul.navbar-nav li a {
+    font-size: 13px;
+    padding: 38px 10px;
+}
+.section-headline.white-headline p {
+    font-size: 14px;
+}
+.header-area.stick .main-menu ul.navbar-nav li a{
+    font-size: 13px;
+    padding: 24px 10px;
+}   
+.service-content h4 {
+    font-size: 15px;
+}
+button.cale-btn {
+    padding: 5px 10px;
+}
+.single-services .service-content h4 {
+    font-size: 14px;
+}    
+.fun_text > h5 {
+    font-size: 15px;
+}    
+.sub-head h4 {
+    font-size: 26px;
+} 
+.blog-content a h4 {
+    font-size: 20px;
+}    
+.left-menu ul li a {
+    font-size: 13px;
+    padding: 14px 10px;
+}     
+.down-btn {
+    font-size: 13px;
+    padding: 15px 10px;
+}    
+.support-text {
+    padding: 20px 5px;
+}    
+.main-menu ul.nav li ul.sub-menu {
+    left: -20px;
+}     
+    
+    
+    
+}
+
+
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.main-menu ul.navbar-nav li a,
+.header-area.stick .main-menu ul.navbar-nav li a{
+    font-size: 13px;
+    padding: 38px 9px;
+}
+.header-area.stick .main-menu ul.navbar-nav li a{
+    font-size: 13px;
+    padding: 24px 9px;
+}
+.section-headline h3 {
+    font-size: 30px;
+}
+.section-headline.white-headline h2{
+    font-size: 30px;
+}
+.slider-content {
+    margin-top: -140px;
+}
+button.cale-btn {
+    padding: 5px 4px;
+    font-size: 13px;
+}
+.sub-head h4 {
+    font-size: 20px;
+}   
+.layer-1-2 h1 {
+    font-size: 36px;
+    line-height: 40px;
+}
+.fun_text > h5 {
+    font-size: 14px;
+}
+.banner-contact {
+    float: right;
+    padding: 10px 0px;
+}
+.banner-content h4 {
+    font-size: 24px;
+    max-width: 560px;
+}
+.left-menu ul li a {
+    font-size: 13px;
+    padding: 14px 10px;
+}     
+.down-btn {
+    font-size: 13px;
+    padding: 15px 10px;
+}    
+.support-text {
+    padding: 20px 10px;
+}
+.single-page {
+    margin: 15px 0px;
+}   
+.single-services-page .mar-row {
+    margin-top: 20px;
+}
+.single-exchange {
+    margin: 15px 0px;
+}
+.main-menu ul.nav li ul.sub-menu {
+    left: -20px;
+}
+.about-text h3 {
+    font-size: 24px;
+}
+.about-text h4 {
+    font-size: 18px;
+}
+.video-text h4 {
+    font-size: 20px;
+}
+.bit-qus {
+    font-size: 22px;
+}
+.review-text p {
+    font-size: 15px;
+}    
+    
+    
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width:300px}
+.logo {
+    height: inherit;
+    left: 0;
+    padding: 0;
+    position: absolute;
+    top: 5px;
+    z-index: 999999;
+    max-width: 150px;
+}
+.logo a {
+    padding: 0px;
+}
+.pagess::after {
+    display: none;
+}
+.slider-content {
+    margin-top: -80px;
+}
+.layer-1-2 {
+    margin: 5px 0;
+}
+.layer-1-2 h1 {
+    font-size: 17px;
+    line-height: 20px;
+    margin-bottom: 10px;
+} 
+.layer-1-1 p {
+    font-size: 13px;
+    letter-spacing: 0px;
+    line-height: 20px;
+}
+ .ready-btn.right-btn {
+    margin-left: 5px;
+}   
+.ready-btn {
+    margin-top: 0px;
+    padding: 8px 20px 8px 5px;
+    width: 128px;
+}    
+.intro-area {
+    width: 100%;
+    height: auto;
+    min-height: 220px;
+}
+.intro-content,
+.slider-images img{
+    width: 100%;
+    height: 100%;
+    min-height: 220px;
+}
+.welcome-area .well-services {
+    margin: 15px 0px;
+}
+.main-services {
+    margin-bottom: 20px;
+}
+.section-headline h3 {
+    font-size: 24px;
+}
+.section-headline.white-headline h2{
+    font-size: 24px;
+}
+.single-cal form {
+    width: 50%;
+}
+.single-cal {
+    background: transparent;
+    min-height: 120px;
+}
+.single-cal form {
+    border-radius:0px;
+}
+button.cale-btn {
+    position: static;
+    border-radius: 30px;
+    margin: 20px 0px;
+}
+.single-exchange {
+    margin: 15px 0px;
+}
+.fun_text {
+    float: none;
+    width: 100%;
+    margin-bottom:30px;
+}
+.sub-head h4 {
+    font-size: 24px;
+}
+.banner-contact {
+    float: none;
+}
+.home-blog .blog-text p{
+    display: none;
+}
+.banner-content h4 {
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+.banner-contact span {
+    font-size: 17px;
+    margin-right: 6px;
+}    
+.banner-contact span i {
+    margin-right: 10px;
+}
+.banner-btn {
+    float: none;
+    margin-top: 20px;
+}
+.footer-content {
+    margin-bottom: 40px;
+}   
+.copyright {
+    text-align: center;
+    margin: 10px 0px;
+}
+.copyright ul {
+    text-align: center;
+}
+.copyright ul li:first-child {
+    margin-left:0px;
+}
+.copyright ul li a {
+    text-align: center;
+} 
+.upcoming-ico .pre-date{
+    font-size: 22px;
+}
+.upcoming-ico .pre-price{
+    font-size: 16px;
+}
+.cdown {
+    padding: 5px;
+    text-align: center;
+}
+.time-count {
+    font-size: 24px;
+    line-height: 40px;
+}
+.sale-token {
+    float: none;
+    text-align: center;
+}
+.total-token {
+    text-align: center;
+}
+.recive-token h4 {
+    font-size: 16px;
+}
+.social-share ul li {
+    margin: 0px;
+}
+.ico-btn {
+    padding: 12px 20px;
+    font-size: 16px;
+}    
+.pri_table_list {
+    margin-bottom: 30px;
+}    
+.about-feature {
+    padding-top: 30px;
+}
+.single-about {
+    margin-top: 70px;
+}    
+.video-text {
+    margin-top: 30px;
+}
+.video-text h4 {
+    font-size: 21px;
+}
+.single-member {
+    margin-bottom: 30px;
+} 
+.left-head-blog {
+    margin-top: 40px;
+}    
+.business-faq {
+    margin-bottom: 40px;
+}    
+.single-faq h3 {
+    font-size: 18px;
+}    
+.single-page {
+    margin: 15px 0px;
+}  
+.single-services-page .mar-row {
+    margin-top: 20px;
+}    
+.about-image {
+    margin-bottom: 30px;
+}    
+.contact-page {
+    padding: 30px 10px;
+} 
+.single-icon p {
+    font-size: 14px;
+}
+h2.error-easy-text {
+    font-size: 24px;
+}
+h1.high-text {
+    font-size: 100px;
+    line-height: 90px;
+    padding: 20px 0px;
+}    
+h3.error-bot {
+    font-size: 24px;
+}
+.bit-qus {
+    font-size: 20px;
+}
+.review-text p {
+    font-size: 15px;
+}
+.marker-list li {
+    font-size: 14px;
+}    
+    
+    
+    
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+    
+    
+}
+ 

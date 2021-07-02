@@ -1,0 +1,5 @@
+[27-Sep-2020 11:35:10 America/New_York] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/bfinftjy/crypto-scoot.com/tmpl/home.tpl"  on line 37 "function gtag(){dataLayer.push(arguments);}"  - Unexpected ".", expected one of: "}" <-- 
+  thrown in /home/bfinftjy/crypto-scoot.com/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 37
+[27-Sep-2020 11:35:13 America/New_York] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/bfinftjy/crypto-scoot.com/tmpl/home.tpl"  on line 37 "function gtag(){dataLayer.push(arguments);}"  - Unexpected ".", expected one of: "}" <-- 
+  thrown in /home/bfinftjy/crypto-scoot.com/inc/libs/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 37
+[09-Jan-2021 19:20:17 UTC] PHP Warning:  PHPMailer: Message body empty in /home/u355647698/domains/crypto-scoot.com/public_html/inc/libs/class.phpmailer.php on line 587

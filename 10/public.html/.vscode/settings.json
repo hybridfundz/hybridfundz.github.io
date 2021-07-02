@@ -1,0 +1,19 @@
+{
+    "azureFunctions.templateFilter": "All",
+    "python.pythonPath": "C:\\Program Files\\Microsoft SQL Server\\150\\PYTHON_SERVER\\python.exe",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "localhost",
+            "database": "mydb",
+            "username": "admin",
+            "password": "1234567"
+        }
+    ]
+}

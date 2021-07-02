@@ -1,0 +1,292 @@
+/* -----------------------------------
+Template Name: Financo
+Template URI: https://devitems.com/html/financo-preview/
+Description: This is html5 template
+Author: HasTech
+Author URI: https://devitems.com/
+Version: 1.0
+NOTE: This is Header style file. All Header related style included in this file.
+
+--------------------------------------*/
+.header-top {color: #b6b6b6; padding: 14px 0;}
+.header-icons > a {
+    color: #b6b6b6;
+    display: inline-block;
+    font-size: 13px;
+    margin: 0 21px;
+}
+.header-icons > a:hover {color: #fff}
+.search-container button {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 0 none;
+    color: #b6b6b6;
+    height: 100%;
+    padding: 0 10px;
+    position: absolute;
+    right: 2px;
+    top: 0
+}
+.search-container form:hover button{color: #fff}
+.search-container form {
+    background: #083561 none repeat scroll 0 0;
+    border-radius: 30px;
+    height: 33px;
+    position: relative;
+    -webkit-transition: width 0.5s ease 0s;
+    transition: width 0.5s ease 0s;
+    width: 133px;
+}
+.search-container form:hover {width: 165px;}
+.search-container {float: right;}
+.search-container input {
+    border: 0 none;
+    height: 100%;
+    padding: 0 12px;
+}
+.header-top .col-md-4 > span {display: block; padding: 4px 0;}
+.header-icons {padding: 4px 0; text-align: center;}
+.logo-wrapper {float: left; width: 29%;}
+.logo a {display: inline-block;}
+.logo {padding: 40px 0;}
+.header-main-content {
+    float: left;
+    padding-left: 44px;
+    padding-top: 40px;
+    width: 52.5%;
+}
+.quote-btn {
+    display: inline-block;
+    float: right;
+    padding: 35px 0;
+    text-align: right;
+    width: 18.5%;
+}
+.quote-btn > button {
+    background: #fde428 none repeat scroll 0 0;
+    border: 0 none;
+    color: #002e5b;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 42px;
+    padding: 0 29px;
+    text-transform: uppercase;
+    -webkit-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+.quote-btn > button:hover {background: #ffffff none repeat scroll 0 0;}
+.header-info > img {
+    display: inline-block;
+    padding-right: 8px;
+    position: relative;
+    top: -12px;
+}
+.header-info {
+    float: left;
+    padding-left: 25px;
+    text-align: center;
+    width: 50%;
+}
+.header-info-text > h4 {
+    color: #dedede;
+    font-size: 16px;
+    line-height: 15px;
+}
+.header-info-text {display: inline-block; text-align: left;}
+.header-info-text > span {
+    color: #dedede;
+    font-family: "montserratlight";
+    font-size: 12px;
+}
+.header-main {position: relative;}
+.header-main.white:before {
+    background: #ffffff none repeat scroll 0 0;
+    content: "";
+    height: 100%;
+    left: -60px;
+    position: absolute;
+    -webkit-transform: skewX(39deg);
+            transform: skewX(39deg);
+    width: 35%;
+}
+.header-main.white:after {
+    background: #ffffff none repeat scroll 0 0;
+    border-right: 15px solid #fde428;
+    content: "";
+    height: 100%;
+    left: 24.5%;
+    position: absolute;
+    top: 0;
+    -webkit-transform: skewX(39deg);
+            transform: skewX(39deg);
+    width: 95px;
+}
+.header-area, .header-two-area, .header-three-area, .header-four-area {position: relative;}
+.mainmenu-area {
+    background: rgba(237, 237, 237, 0.35) none repeat scroll 0 0;
+    position: relative;
+}
+.fixed {
+    left: 0;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    z-index: 9;
+}
+.main-menu ul li {
+    display: inline-block;
+    margin: 0 23px;
+    padding: 21px 0;
+    position: relative;
+}
+.main-menu ul li a {
+    color: #002e5b;
+    font-family: "montserratregular";
+    font-size: 14px;
+    position: relative;
+}
+.main-menu nav > ul > li:hover > a {color: #006B63}
+.main-menu ul li ul.submenu {
+    background: #fff;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.2);
+    left: 0;
+    opacity: 0;
+    padding: 19px 15px 14px;
+    position: absolute;
+    text-align: left;
+    top: 90%;
+    transition: all 0.5s ease 0s;
+    visibility: hidden;
+    width: 210px;
+    z-index: -9;
+}
+.main-menu ul li:hover > ul.submenu {
+    opacity: 1;
+    visibility: visible;
+    z-index: 9;
+    top: 100%
+}
+.main-menu ul li ul.submenu li {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.main-menu ul li ul.submenu li a {
+    border-radius: 2px;
+    color: #002e5b;
+    display: block;
+    font-family: "Poppins",sans-serif;
+    font-size: 13px;
+    padding: 8px 15px;
+    text-transform: capitalize;
+}
+.main-menu ul li ul.submenu li:hover > a {
+    background: #002e5b none repeat scroll 0 0;
+    color: #ffffff;
+}
+.main-menu ul li ul.submenu.megamenu {
+    padding: 15px 20px;
+    right: auto;
+    white-space: nowrap;
+    width: auto;
+}
+.main-menu ul li ul.submenu.megamenu > li {
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: top;
+    width: 185px;
+}
+.main-menu ul li ul.submenu.megamenu > li > a {
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 4px
+}
+.main-menu ul li ul.submenu.megamenu li > a:hover{background: #002e5b; color: #fff}
+.main-menu.text-left span {float: right;}
+.header-sticky.sticky {
+    -webkit-animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+            animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+    background: rgba(0, 0, 0, 0.68) none repeat scroll 0 0;
+    left: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+}
+.sticky .main-menu > nav > ul > li {padding: 20px 0;}
+.sticky .logo {padding: 10px 0;}
+.header-area .sticky, .header-two-area .sticky, .header-three-area .sticky, .header-four-area .sticky {
+    background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+    box-shadow: 0 1px 3px rgba(50, 50, 50, 0.4);
+}
+.header-two-area .main-menu nav > ul > li:hover > a {color: #fde428}
+.header-two-area .main-menu ul li ul.submenu li:hover > a {
+    background: #002e5b none repeat scroll 0 0;
+    color: #fde428;
+}
+.header-three-area .header-info-text > h4, .header-three-area .header-info-text > span, .header-four-area .header-info-text > h4, .header-four-area .header-info-text > span {
+    color: #303030;
+}
+.header-three-area .header-main-content, .header-four-area .header-main-content {
+    padding: 40px 0 0;
+    width: 33.3333%;
+}
+.header-three-area .header-info, .header-four-area .header-info {
+    padding-left: 0;
+    text-align: left;
+    width: 100%;
+}
+.header-three-area .logo-wrapper, .header-four-area .logo-wrapper {
+    margin: auto;
+    text-align: center;
+    width: 33.33%;
+}
+.header-three-area .quote-btn, .header-four-area .quote-btn {width: 33.33%;}
+.header-three-area .quote-btn button:hover, .header-four-area .quote-btn button:hover {
+    background: #002e5b none repeat scroll 0 0;
+    color: #ffffff;
+}
+.header-four-area .quote-btn button {
+    background: #006B63 none repeat scroll 0 0;
+    color: #ffffff;
+}
+.header-four-area .quote-btn button:hover {background: #002e5b none repeat scroll 0 0;}
+.header-four-area .mainmenu-area {
+    background: rgba(237, 237, 237, 0.45) none repeat scroll 0 0;
+}
+.main-menu ul li ul.submenu.megamenu > li:hover > a{
+    background: inherit; 
+    color: #002e5b
+}
+.header-two-area .header-top .col-md-4 > span {color: #ddd;}
+.header-two-area .header-icons > a, .header-two-area .search-container button {color: #ddd;}
+.header-two-area .header-icons > a:hover, .header-two-area .search-container:hover button {color: #FDE428;}
+.header-two-area .search-container > form {background: #02726a none repeat scroll 0 0;}
+/*----------------------------------------*/
+/*  Mobile Menu
+/*----------------------------------------*/
+.mobile-menu-area { display: none}
+.mean-container .mean-bar:after {display: none}
+.mean-container .mean-nav ul li a {
+    background: #ffffff none repeat scroll 0 0;
+    color: #2D3E50;
+    display: block;
+}
+.mean-container .mean-nav ul li a.mean-expand {background: none; top: -4px;}
+.mean-container .mean-nav ul li a.mean-expand:hover {background: none}
+.mean-container .mean-nav ul li li a {
+    color: #4e4f54;
+    opacity: .90;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    filter: alpha(opacity=90);
+    border-top: 0;
+}
+.mean-container .mean-nav ul li li{background: #fff}
+.mean-container a.meanmenu-reveal {color: #2D3E50}
+.mean-container a.meanmenu-reveal:hover span {background: #006B63}
+.mean-last {margin-bottom: 20px}
+.mobile-menu {position: relative}
+.header-two-area .mobile-menu-area, .header-two-area .mean-container .mean-nav {
+    background: #006b63 none repeat scroll 0 0;
+}
+.header-two-area .mean-container a.meanmenu-reveal:hover span{background: #002E5B}

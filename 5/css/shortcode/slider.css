@@ -1,0 +1,166 @@
+/* -----------------------------------
+Template Name: Financo
+Template URI: https://devitems.com/html/financo-preview/
+Description: This is html5 template
+Author: HasTech
+Author URI: https://devitems.com/
+Version: 1.0
+NOTE: This is Slider style file. All Slider related style included in this file.
+
+--------------------------------------*/
+.slider-area, .slider-two-area, .slider-three-area, .slider-four-area {position: relative; overflow: hidden;}
+.slider-area img, .slider-two-area img, .slider-three-area img, .slider-four-area img {width: 100%;}
+.slider-area, .slider-two-area, .slider-three-area, .slider-four-area, .banner-content, .banner-content .container, .banner-content .row, .banner-content .col-md-7, .banner-content .col-md-10, .banner-content .text-content-wrapper, .banner-content .text-content, .banner-content .display-table, .banner-content .display-table-cell{
+    height: 100%;
+    margin: auto;
+}
+.banner-content .col-md-7.col-md-offset-5 {margin-left: 41.6667%;}
+.banner-content .col-md-10.col-md-offset-1 {margin-left: 8.33333%}
+.single-slide, .owl-item, .owl-stage, .slider-wrapper, .owl-stage-outer {height: 100%;} 
+.text-content-wrapper {width: 100%;}
+.banner-content .row{margin-left: -15px; margin-right: -15px}
+.banner-content .text-content-wrapper, .banner-content .display-table {display: table;}
+.banner-content .text-content-wrapper.text-left {float: left;}
+.banner-content .text-content, .banner-content .display-table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+.banner-readmore {
+    clear: both;
+    display: block;
+}
+.banner-btn {
+    border: 1px solid #002e5b;
+    border-radius: 2px;
+    color: #002e5b;
+    display: inline-block;
+    font-family: montserratregular;
+    font-size: 14px;
+    line-height: 37px;
+    padding: 0 22px;
+    position: relative;
+}
+.banner-btn:hover {background: #002e5b; color: #fff;}
+.slider-area .button-default, .slider-two-area .button-default, .slider-three-area .button-default, .slider-four-area .button-default {display: inline;}
+.banner-content.static-text {
+    left: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    z-index: 9;
+}
+.text-content h3 {
+    color: #002e5b;
+    font-size: 20px;
+    margin-bottom: 13px;
+}
+.banner-content h1 {
+    color: #006b63;
+    font-family: "montserratbold";
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+.text-content > p {
+    font-family: "montserratlight";
+    margin-bottom: 39px;
+    padding-left: 65px;
+    padding-right: 65px;
+}
+.slider-area .banner-content h3, .slider-area .banner-content h1, .slider-area .banner-content p, .slider-area .banner-content .banner-readmore {
+    transform: scale(1.3);
+    opacity: 0;
+    transition-duration: 0.4s;
+}
+.slider-area .owl-item.active .banner-content h3, .slider-area .owl-item.active .banner-content h1, .slider-area .owl-item.active .banner-content p, .slider-area .owl-item.active .banner-content .banner-readmore {
+    opacity: 1;
+    transform: scale(1);
+    transition-delay: 1s;
+    transition-duration: 0.4s;
+}
+.slider-two-area .owl-item.active .banner-content h3{
+    animation: 1500ms ease-in-out 0s normal none 1 running bounceInLeft;
+} 
+.slider-two-area .owl-item.active .banner-content h1{
+    animation: 2000ms ease-in-out 0s normal none 1 running bounceInLeft;
+} 
+.slider-two-area .owl-item.active .banner-content p{
+    animation: 2500ms ease-in-out 0s normal none 1 running bounceInLeft;
+} 
+.slider-two-area  .owl-item.active .banner-content .banner-readmore {
+    animation: 3000ms ease-in-out 0s normal none 1 running bounceInLeft;
+} 
+.slider-area .owl-item.active .banner-content h1 {transition-delay: 1.1s;}
+.slider-area .owl-item.active .banner-content p {transition-delay: 1.15s;}
+.slider-area .owl-item.active .banner-content .banner-readmore {transition-delay: 1.30s;}
+.slider-two-area .text-content h3 {color: #006b63}
+.slider-two-area .banner-content h1 {color: #002e5b;}
+.slider-two-area .banner-btn {
+    border-color: #006B63;
+    color: #006b63;
+}
+.slider-two-area .banner-btn:hover {background: #006B63; color: #fff;}
+.slider-three-area .owl-item.active .banner-content h3, .slider-three-area .owl-item.active .banner-content h1, .slider-three-area .owl-item.active .banner-content p, .slider-three-area .owl-item.active .banner-content .banner-readmore{
+    animation: 1500ms ease-in-out 0s normal both 1 running fadeInUp;
+} 
+.slider-three-area .owl-item.active .banner-content h3 {animation-delay: 1000ms}  
+.slider-three-area .owl-item.active .banner-content h1 {animation-delay: 2000ms} 
+.slider-three-area .owl-item.active .banner-content p {animation-delay: 3000ms} 
+.slider-three-area  .owl-item.active .banner-content .banner-readmore {animation-delay: 4000ms} 
+.slider-three-area .text-content h3, .slider-three-area .text-content h1, .slider-three-area .text-content p, .slider-four-area .text-content h3, .slider-four-area .text-content h1, .slider-four-area .text-content p {
+    color: #ffffff;
+}
+.slider-three-area .text-content p, .slider-four-area .text-content p {
+    padding-left: 210px;
+    padding-right: 210px;
+}
+.slider-three-area .banner-btn, .slider-four-area .banner-btn {
+    border-color: #ffffff;
+    color: #ffffff;
+}
+.slider-three-area .banner-btn:hover, .slider-four-area .banner-btn:hover {
+    background: #ffffff none repeat scroll 0 0;
+    color: #002e5b;
+}
+.owl-nav div{
+    background: #002e5b none repeat scroll 0 0;
+    color: #ffffff;
+    font-size: 30px;
+    height: 46px;
+    left: -46px;
+    margin-top: -23px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 46px;
+    z-index: 999;
+    -webkit-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s
+}
+.owl-nav .owl-next {left: auto; right: -46px;}
+.slider-area, .slider-two-area, .slider-three-area, .slider-four-area {height: 500px;}
+.slider-area:hover .owl-nav div, .slider-two-area:hover .owl-nav div, .slider-three-area:hover .owl-nav div, .slider-four-area:hover .owl-nav div {
+    left: 0;
+}
+.slider-area:hover .owl-nav .owl-next, .slider-two-area:hover .owl-nav .owl-next, .slider-three-area:hover .owl-nav .owl-next, .slider-four-area:hover .owl-nav .owl-next {
+    left: auto; 
+    right: 0;
+}
+.owl-nav div:hover{background: #006B63}
+.slider-four-area .banner-content h3, .slider-four-area .banner-content h1, .slider-four-area .banner-content p, .slider-four-area .banner-content .banner-readmore {
+    transform: translateX(50px);
+    opacity: 0;
+    transition-duration: 0.4s;
+}
+.slider-four-area .banner-content h3 {transform: translateX(-200px);}  
+.slider-four-area .banner-content h1 {transform: translateX(-400px);} 
+.slider-four-area .banner-content p {transform: translateX(200px);} 
+.slider-four-area .banner-content .banner-readmore {transform: translateX(400px);} 
+.slider-four-area .owl-item.active .banner-content h3, .slider-four-area .owl-item.active .banner-content h1, .slider-four-area .owl-item.active .banner-content p, .slider-four-area .owl-item.active .banner-content .banner-readmore {
+    opacity: 1;
+    transition-delay: 1s;
+    transition-duration: 0.4s;
+    animation-fill-mode:both;
+    transform: translateX(0px);
+}
+.single-slide{background-position: top center; background-size: cover}

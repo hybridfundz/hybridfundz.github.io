@@ -1,0 +1,67 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Jun 2021 23:48:57 at https://boomchart.net/kingsmen/admin +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://boomchart.net/kingsmen/admin -O1 "C:\xampp\htdocs\Aaa\admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:53:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/xampp/htdocs/Aaa/admin/www.w3.org/2000/svg.61.delayed
+23:53:13	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+23:56:36	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/xampp/htdocs/Aaa/admin/www.w3.org/2000/svg.61.delayed
+23:56:36	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/boing/boing_semibold_web.eot (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/boing/boing_semibold_web.ttf (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/boing/boing_semibold_web.eot? (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/boing/boing_semibold_web.svg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_light.eot (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_light.ttf (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_light.eot? (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_light.woff (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_light.svg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_regular.eot (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_regular.ttf (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_regular.eot? (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_regular.svg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_medium.eot (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_medium.eot? (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_medium.ttf (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_medium.svg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_semibold.eot (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_semibold.woff2 (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_semibold.woff (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_semibold.ttf (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/graphik/graphik_semibold.svg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/tiempos/TiemposHeadline-Bold.eot? (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/tiempos/TiemposHeadline-Bold.woff (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/tiempos/TiemposHeadline-Bold.ttf (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/tiempos/TiemposHeadline-Bold.svg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/tiempos/TiemposHeadline-Bold.eot (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/moret/Moret-Regular.eot (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/moret/Moret-Regular.woff2 (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/moret/Moret-Regular.woff (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/moret/Moret-Regular.eot? (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/moret/Moret-Regular.ttf (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:37	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/fonts/moret/Moret-Regular.svg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Warning: 	File not parsed, looks like binary: www.w3.org/2000/svg
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/january.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/february.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/march.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/april.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/may.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/june.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/july.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/august.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/september.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/october.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/november.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/dashboard/img/calendar/december.jpg (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/images/country-flag-16X16/usa.png (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/images/country-flag-16X16/spain.png (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/images/country-flag-16X16/hindi.png (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/images/country-flag-16X16/germany.png (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/images/country-flag-16X16/france.png (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+23:56:42	Error: 	"Not Found" (404) at link https://boomchart.net/kingsmen/asset/images/country-flag-16X16/china.png (from https://boomchart.net/kingsmen/asset/dashboard/css/argon.css?v=1.1.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 8 seconds : 148 links scanned, 94 files written (23167892 bytes overall) [23561945 bytes received at 48282 bytes/sec], 10809 bytes transferred using HTTP compression in 3 files, ratio 34%
+(53 errors, 3 warnings, 0 messages)

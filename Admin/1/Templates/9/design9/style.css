@@ -1,0 +1,127 @@
+form {	margin-top: 0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;}
+.toptable {
+	background-color: FF8D00;
+}
+a, a:visited, a:active, a:hover {
+	color: #DC5656;
+}
+a.toplink, a.toplink:hover, a.toplink:visited, a.toplink:active {
+	color: white;
+	text-decoration: none;
+}
+.forCopyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #525252;
+}
+
+body, td, .forTexts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+a.menutxt, a.menutxt:hover, a.menutxt:visited, a.menutxt:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #DC5656;
+}
+.menutxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #666666;
+}
+
+.inpts {
+	BORDER-RIGHT: #CCCCCC 1px solid; 
+        BORDER-TOP: #CCCCCC 1px solid; 
+        FONT-SIZE: 10px; 
+        BORDER-LEFT: #CCCCCC 1px solid; 
+        COLOR: #000000; 
+        BORDER-BOTTOM: #CCCCCC 1px solid; 
+        FONT-FAMILY: Helvetica, sans-serif; 
+        BACKGROUND-COLOR: #ffffff
+}
+
+.sbmt {
+	BORDER-RIGHT: #BBBBBB 1px solid; 
+        BORDER-TOP: #BBBBBB 1px solid; 
+        FONT-SIZE: 10px; 
+        BORDER-LEFT: #BBBBBB 1px solid; 
+        COLOR: #000000; 
+        BORDER-BOTTOM: #BBBBBB 1px solid; 
+        FONT-FAMILY: Helvetica, sans-serif; 
+        BACKGROUND-COLOR: #CCCCCC; 
+}
+
+a.hlp, a.hlp:active, a.hlp:visited, a.hlp:hover { font-family: verdana; font-size: 12px; color: black; text-decoration: none; cursor: help;}
+
+.line {
+	background-color: #DEDEDE;
+}
+.bgcolorleft {
+	background-color: white;
+}
+.bgcolormain {
+	background-color: white;
+}
+.bgcolorright {
+	background-color: white;
+}
+div.framebody {
+	text-align: left;
+}
+td.inheader {
+	background-color: #CCCCCC;
+	color: #000000;
+ 	font-weight: bold;
+	text-align: center; 
+        padding-left: 2px;
+        padding-right: 2px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+}
+td.item {
+	background-color: #FFCC66;	
+}
+h3 {
+	COLOR: #000000; 
+	font-weight: bold;
+	font-size: 12px;
+}
+.calendartable {
+	background-color: #666666;
+	text-align: center;
+}
+.calendartablebg {
+	background-color: white;
+}
+.calendarweek {
+        color: #FFFFFF;
+	background-color: #666666;
+	text-align: center;
+	
+}
+td.gray {
+        color: gray;
+}
+div.menupoint {
+        LEFT: 380px; 
+        WIDTH: 450px; 
+        POSITION: absolute; 
+        TOP: 242px; 
+        HEIGHT: 20px
+}

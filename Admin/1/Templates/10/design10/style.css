@@ -1,0 +1,143 @@
+form {	margin-top: 0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;}
+a, a:visited, a:active {
+	color: #6699CC;
+}
+a.toplink, a.toplink:hover, a.toplink:visited, a.toplink:active {
+	color: #FFFFFF;
+        font-size: 12px;
+}
+.forCopyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+        COLOR: #FFFFFF; 
+	text-align: center;
+	background-color: #999999;
+}
+
+a.forCopyright {
+	text-decoration: underline;
+}
+
+body, td, .forTexts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #003366;
+}
+a.menutxt, a.menutxt:hover, a.menutxt:visited, a.menutxt:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #6699CC;
+}
+.menutxt {
+	PADDING-RIGHT: 2px;
+        PADDING-LEFT: 5px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+}
+.infotxt {
+        PADDING-LEFT: 5px;
+        PADDING-RIGHT: 5px;
+	font-size: 10px;
+}
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #666666;
+	color: #FFFFFF;
+}
+
+.inpts {
+	BORDER-RIGHT: #CCCCCC 1px solid; 
+        BORDER-TOP: #CCCCCC 1px solid; 
+        FONT-SIZE: 10px; 
+        BORDER-LEFT: #CCCCCC 1px solid; 
+        COLOR: #000000; 
+        BORDER-BOTTOM: #CCCCCC 1px solid; 
+        FONT-FAMILY: Helvetica, sans-serif; 
+        BACKGROUND-COLOR: #ffffff
+}
+
+.sbmt {
+	BORDER-RIGHT: #BBBBBB 1px solid; 
+        BORDER-TOP: #BBBBBB 1px solid; 
+        FONT-SIZE: 10px; 
+        BORDER-LEFT: #BBBBBB 1px solid; 
+        COLOR: #000000; 
+        BORDER-BOTTOM: #BBBBBB 1px solid; 
+        FONT-FAMILY: Helvetica, sans-serif; 
+        BACKGROUND-COLOR: #CCCCCC; 
+}
+
+a.hlp, a.hlp:active, a.hlp:visited, a.hlp:hover {
+	font-family: verdana;
+	font-size: 12px;
+	color: black;
+	text-decoration: none;
+	cursor: help;
+}
+.line {
+	background-color: #CCCCCC;
+}
+td.line {
+	background-color: #CCCCCC;
+}
+.bgcolorleft {
+	background-color: white;
+}
+.bgcolormain {
+	background-color: white;
+}
+.bgcolorright {
+	background-color: white;
+}
+div.framebody {
+	text-align: left;
+}
+td.inheader {
+	background-color: #CCCCCC;
+	color: #000000;
+	font-weight: bold;
+	text-align: center; 
+        padding-left: 2px;
+        padding-right: 2px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+}
+td.item {
+	background-color: #D0DFE9;	
+}
+h3 {
+	COLOR: #000000; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+.calendartable {
+	background-color: #666666;
+	text-align: center;
+}
+.calendartablebg {
+	background-color: white;
+}
+.calendarweek {
+	background-color: #666666;
+	color: #FFFFFF;
+	text-align: center;
+		
+}
+td.gray {
+        color: gray;
+}
+div.menupoint {
+        LEFT: 380px; 
+        WIDTH: 450px; 
+        POSITION: absolute; 
+        TOP: 203px; 
+        HEIGHT: 20px
+}

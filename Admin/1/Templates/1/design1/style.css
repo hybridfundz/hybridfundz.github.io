@@ -1,0 +1,132 @@
+form {	margin-top: 0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;}
+a, a:visited, a:active {
+	color: #668ab8;
+}
+a.toplink, a.toplink:hover, a.toplink:visited, a.toplink:active {
+	color: navy;
+        font-size: 12px;
+}
+.forCopyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+        COLOR: navy; 
+	text-align: center;
+	background-color: #D3E3F3;
+}
+
+a.forCopyright {
+	text-decoration: underline;
+}
+
+body, td, .forTexts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+a.menutxt, a.menutxt:hover, a.menutxt:visited, a.menutxt:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #668ab8;
+}
+.menutxt {
+	PADDING-RIGHT: 0px;
+        PADDING-LEFT: 5px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #668ab8;
+}
+.infotxt {
+	PADDING-RIGHT: 5px;
+        PADDING-LEFT: 5px;
+	font-size: 10px;
+}
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url("images/bg.jpg");
+	font-size: 12px;
+	background-color: #D3E3F3;
+	color: navy;
+}
+
+.inpts {
+	BORDER-RIGHT: #668ab8 1px solid; 
+        BORDER-TOP: #668ab8 1px solid; 
+        FONT-SIZE: 10px; 
+        BORDER-LEFT: #668ab8 1px solid; 
+        COLOR: #000000; 
+        BORDER-BOTTOM: #668ab8 1px solid; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.sbmt {
+	BORDER-RIGHT: #668ab8 1px outset; 
+        BORDER-TOP: #668ab8 1px outset; 
+        FONT-SIZE: 10px; 
+        BORDER-LEFT: #668ab8 1px outset; 
+        COLOR: #000000; 
+        BORDER-BOTTOM: #668ab8 1px outset; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+        BACKGROUND-COLOR: #AFC6E7
+}
+a.hlp, a.hlp:active, a.hlp:visited, a.hlp:hover {
+	font-family: verdana;
+	font-size: 12px;
+	color: black;
+	text-decoration: none;
+	cursor: help;
+}
+.line {
+	background-color: #FFFFFF;
+}
+.bgcolorleft {
+	background-color: white;
+}
+.bgcolormain {
+	background-color: white;
+}
+.bgcolorright {
+	background-color: white;
+}
+div.framebody {
+	text-align: left;
+}
+td.inheader {
+	background-image: url("images/bg.jpg");	
+	background-color: D3E3F3;
+	font-weight: bold;
+	text-align: center; 
+        padding-left: 2px;
+        padding-right: 2px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+}
+td.item {
+	bgcolor: #FFF9B3;	
+	text-align: right; 
+}
+h3 {
+	COLOR: #2c629e; 
+        FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+.calendartable {
+	background-color: #668ab8;
+	text-align: center;
+}
+.calendartablebg {
+	background-color: white;
+}
+.calendarweek {
+	background-color: #668ab8;
+	color: #FFFFFF;
+	text-align: center;
+		
+}
+td.gray {
+        color: gray;
+}
