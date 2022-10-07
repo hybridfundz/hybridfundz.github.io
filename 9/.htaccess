@@ -1,8 +1,4 @@
 
-<FilesMatch ".(?:html|php)$">
-SetHandler application/x-lsphp56
-</FilesMatch>
-
 RewriteOptions inherit
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
