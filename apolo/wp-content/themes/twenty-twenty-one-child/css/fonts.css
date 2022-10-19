@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('../fonts/AdelleSansEXT-Regular.eot');
+    src: url('../fonts/AdelleSansEXT-Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AdelleSansEXT-Regular.woff2') format('woff2'),
+        url('../fonts/AdelleSansEXT-Regular.woff') format('woff'),
+        url('../fonts/AdelleSansEXT-Regular.ttf') format('truetype'),
+        url('../fonts/AdelleSansEXT-Regular.svg#AdelleSansEXT-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('../fonts/AdelleSansEXT-Heavy.eot');
+    src: url('../fonts/AdelleSansEXT-Heavyd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AdelleSansEXT-Heavy.woff2') format('woff2'),
+        url('../fonts/AdelleSansEXT-Heavy.woff') format('woff'),
+        url('../fonts/AdelleSansEXT-Heavy.ttf') format('truetype'),
+        url('../fonts/AdelleSansEXT-Heavy.svg#AdelleSansEXT-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('../fonts/AdelleSansEXT-Light.eot');
+    src: url('../fonts/AdelleSansEXT-Lightd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AdelleSansEXT-Light.woff2') format('woff2'),
+        url('../fonts/AdelleSansEXT-Light.woff') format('woff'),
+        url('../fonts/AdelleSansEXT-Light.ttf') format('truetype'),
+        url('../fonts/AdelleSansEXT-Light.svg#AdelleSansEXT-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('../fonts/AdelleSansEXT-Thin.eot');
+    src: url('../fonts/AdelleSansEXT-Thind41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AdelleSansEXT-Thin.woff2') format('woff2'),
+        url('../fonts/AdelleSansEXT-Thin.woff') format('woff'),
+        url('../fonts/AdelleSansEXT-Thin.ttf') format('truetype'),
+        url('../fonts/AdelleSansEXT-Thin.svg#AdelleSansEXT-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('../fonts/AdelleSansEXT-Semibold.eot');
+    src: url('../fonts/AdelleSansEXT-Semiboldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AdelleSansEXT-Semibold.woff2') format('woff2'),
+        url('../fonts/AdelleSansEXT-Semibold.woff') format('woff'),
+        url('../fonts/AdelleSansEXT-Semibold.ttf') format('truetype'),
+        url('../fonts/AdelleSansEXT-Semibold.svg#AdelleSansEXT-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('../fonts/AdelleSansEXT-Bold.eot');
+    src: url('../fonts/AdelleSansEXT-Boldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AdelleSansEXT-Bold.woff2') format('woff2'),
+        url('../fonts/AdelleSansEXT-Bold.woff') format('woff'),
+        url('../fonts/AdelleSansEXT-Bold.ttf') format('truetype'),
+        url('../fonts/AdelleSansEXT-Bold.svg#AdelleSansEXT-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('../fonts/AdelleSansEXT-Extrabold.eot');
+    src: url('../fonts/AdelleSansEXT-Extraboldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AdelleSansEXT-Extrabold.woff2') format('woff2'),
+        url('../fonts/AdelleSansEXT-Extrabold.woff') format('woff'),
+        url('../fonts/AdelleSansEXT-Extrabold.ttf') format('truetype'),
+        url('../fonts/AdelleSansEXT-Extrabold.svg#AdelleSansEXT-Extrabold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
